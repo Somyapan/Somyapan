@@ -28,7 +28,7 @@
 ### 🌐 Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/meet26/" target="_blank">
+  <a href="https://www.linkedin.com/in/somya-panchal-92214521a?" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
   </a>
   &nbsp;&nbsp;
