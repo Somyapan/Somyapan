@@ -17,10 +17,10 @@
 
 - 🌱 I’m currently learning **Openshift**  
 - 🤝 I’m looking for help with **DevOps**  
-- 👨‍💻 All of my projects are available at: [meetparmar.com](https://meetparmar.com)  
+- 👨‍💻 All of my projects are available at:(https://somyaportfolio57.vercel.app)  
 - 💬 Ask me about **DevOps**  
 - 📫 Reach me at: **somyapancom@gmail.com**  
-- 📄 Know about my experiences: [GitHub Resume Repo](https://github.com/Meet01234/Meet_Parmar_Resume.git)  
+- 📄 Know about my experiences: [GitHub Resume Repo](https://github.com/somyapan/somya_resume_repo.git)  
 - ⚡ Fun fact: **I Create GitHub Repos**
 
 ---
@@ -32,15 +32,15 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:meetparmar14790@gmail.com" target="_blank">
+  <a href="mailto:somyapancom@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/parmar.meet.1656/" target="_blank">
+  <a href="https://www.instagram.com/panchal__somya?igsh=cmEycnpiN3ZqaTBz&utm_source=qr" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="40" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.facebook.com/parmar.meet.1656" target="_blank">
+  <a href="" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook" height="40" width="40"/>
   </a>
 </p>
@@ -75,19 +75,19 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meet01234&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=somyapan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=meet01234&theme=gruvbox&margin-w=15&no-frame=true" alt="GitHub Profile Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=somyapan&theme=gruvbox&margin-w=15&no-frame=true" alt="GitHub Profile Trophies" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meet01234&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=somyapan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meet01234&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somyapan&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
